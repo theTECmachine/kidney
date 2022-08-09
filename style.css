@@ -1,0 +1,16 @@
+body{
+    background-color: maroon;
+    color: aqua;
+    padding: 10px;
+}
+#image{
+    float: left;
+
+}
+#description{
+    float:none;
+}
+
+#reviews{
+    clear: both;
+}
